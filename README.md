@@ -1,0 +1,1 @@
+Inflation is January {year} to January 2023 (using https://www.bls.gov/data/inflation_calculator.htm)
