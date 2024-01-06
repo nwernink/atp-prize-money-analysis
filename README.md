@@ -46,6 +46,9 @@ The number of players earning at least a certain amount can be manipulated by ch
 #### 9. Potential Impact of ATP Baseline on Player Earnings
 In 2024, the ATP launched Baseline which is a financial security program for players that guarantees them a minimum amount of income based on their ranking as well as injury protection. Below shows the players that would be affected by this program if it were implemented in the previous year and by how much it would impact them.
 
+#### 10. Total Prize Money Awarded at Each Tournament Level
+The total prize money awarded at each tournament level is calculated by adding up all prize money earned by players from each respective tournament type. The charts show the trend of the amount of prize money earned each year at the various tournament levels.
+
 
 
 ##### Footnotes
