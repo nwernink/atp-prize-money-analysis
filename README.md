@@ -49,6 +49,9 @@ In 2024, the ATP launched Baseline which is a financial security program for pla
 #### 10. Total Prize Money Awarded at Each Tournament Level
 The total prize money awarded at each tournament level is calculated by adding up all prize money earned by players from each respective tournament type. The charts show the trend of the amount of prize money earned each year at the various tournament levels.
 
+#### 11. Average Prize Money Per Point at Each Round of Every Tournament
+The average prize money per point at each round of each tournament level is calculated by averaging the prize money per point from each player at each round of each tournament by year.
+
 
 
 ##### Footnotes
