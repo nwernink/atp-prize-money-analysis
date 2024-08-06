@@ -1,20 +1,20 @@
 # ATP Prize Money Analysis
 
 ### Background
-This analysis focuses on the prize money distribution within the ATP by looking at the top 750 singles players and top 250 doubles players from each year starting in 2009* to the present. Although only ATP players are analyzed, similar results very much exist for the WTA Tour (albeit more exacerbated for the worse); however, the ATP website is much more friendly for this type of analysis so it is the one examined.
+This analysis focuses on the prize money distribution within the ATP by looking at the top 750 singles players and top 250 doubles players from each year starting in 2009*. Although only ATP players are analyzed, similar results exist for the WTA Tour; however the ATP website is much more friendly for this type of analysis so it is the only one examined here.
 
-The following results are meant to show the distribution of prize money within the ATP Tour (which can be extrapolated to the WTA as well), but is not intended to investigate the inequality between the ATP and WTA Tours (which does exist).
+The following results are meant to show the distribution of prize money within the ATP Tour, but is not intended to investigate the inequality between the ATP and WTA Tours.
 
 ### Collection
 
 #### Data Retrieval
-An overview list of all players for each year is scraped from the ATP website rankings page from the last week of each year (stored in data/players/overview). This data is then used to go into each player's activity profile in order to get all match data of the tournaments they played for the given year (stored in data/players/activity). 
+An overview list of all players for each year is scraped from the ATP website rankings page using data from the last week of each year (stored in data/players/overview). This data is used to go into each player's activity profile to get all match data of the tournaments they played for the given year (stored in data/players/activity). 
 
 #### Data Processing
-Using the player activity data, a cleaned version is created to standardize prize money earned** and remove Davis Cup matches from players Tour level wins/losses statistics (stored in data/players/clean). Davis Cup matches are removed as wins/losses from player totals because neither prize money nor points are awarded which would create noise*** for later analyses. Additionally, player data is combined for each year so that their singles and doubles prize money is totaled in order to understand the total amount of prize money each player earns as many players play both singles and doubles (stored in data/players/combined)****.
+A cleaned version of the player activity data is created to standardize prize money earned** and remove Davis Cup matches from players' Tour level wins/losses statistics (stored in data/players/clean). Davis Cup matches are removed as wins/losses from player totals because neither prize money nor points are awarded which would create noise*** for later analyses. Additionally, player data is combined for each year so that their singles and doubles prize money is totaled in order to understand the total amount of prize money each player earns as many players play both singles and doubles (stored in data/players/combined)****.
 
 #### Tournament Data Extraction
-Unlike player data, tournament data is not readily available, so prize money data at the tournament level is extracted using the player results. This is accomplished by going through every player's match data and associating the prize money and points earned to that particular tournament (organized by singlles/doubles, year, tournament type, and round reached)*****. From there, the data is further synthesized by calculated the average prize money per point at each tournament type (stored in data/tournaments).
+Unlike player data, tournament data is not readily available, so prize money data at the tournament level is extracted using the player results. This is accomplished by going through every player's match data and associating the prize money and points earned to that particular tournament (organized by singles/doubles, year, tournament type, and round reached)*****. From there, the data is further synthesized by calculated the average prize money per point at each tournament type (stored in data/tournaments).
 
 
 ### Analyses
