@@ -40,18 +40,17 @@ The correlation between player rankings and prize money earned as well as tour l
 #### 7. Average Prize Money Per Point at Each Tournament Level
 The average prize money per point at each tournament level is calculated by averaging the prize money per point from each player at each tournament level by year. The charts show the trend in how prize money per point has been awarded across the years to players as well as the differences in prize money per point awarded between different tournament levels.
 
-#### 8. Impact of Challenger Prize Money Increases on Number of Players Earning $X Amount
-The number of players earning at least a certain amount can be manipulated by changing the amount of prize money players receive at various tournament levels. The following illustrates by what factor does Challenger level prize money need to be increased for a certain number of players to earn at least the given amount of money.
-
-#### 9. Potential Impact of ATP Baseline on Player Earnings
-In 2024, the ATP launched Baseline which is a financial security program for players that guarantees them a minimum amount of income based on their ranking as well as injury protection. Below shows the players that would be affected by this program if it were implemented in the previous year and by how much it would impact them.
-
-#### 10. Total Prize Money Awarded at Each Tournament Level
+#### 8. Total Prize Money Awarded at Each Tournament Level
 The total prize money awarded at each tournament level is calculated by adding up all prize money earned by players from each respective tournament type. The charts show the trend of the amount of prize money earned each year at the various tournament levels.
 
-#### 11. Average Prize Money Per Point at Each Round of Every Tournament
+#### 9. Average Prize Money Per Point at Each Round of Every Tournament
 The average prize money per point at each round of each tournament level is calculated by averaging the prize money per point from each player at each round of each tournament by year.
 
+#### 10. Impact of Challenger Prize Money Increases on Number of Players Earning $X Amount
+The number of players earning at least a certain amount can be manipulated by changing the amount of prize money players receive at various tournament levels. The following illustrates by what factor does Challenger level prize money need to be increased for a certain number of players to earn at least the given amount of money.
+
+#### 11. Potential Impact of ATP Baseline on Player Earnings
+In 2024, the ATP launched Baseline which is a financial security program for players that guarantees them a minimum amount of income based on their ranking as well as injury protection. Below shows the players that would be affected by this program if it were implemented in the previous year and by how much it would impact them.
 
 
 ##### Footnotes
