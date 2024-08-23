@@ -46,10 +46,10 @@ The total prize money awarded at each tournament level is calculated by adding u
 #### 9. Average Prize Money Per Point at Each Round of Every Tournament
 The average prize money per point at each round of each tournament level is calculated by averaging the prize money per point from each player at each round of each tournament by year.
 
-#### 10. Impact of Challenger Prize Money Increases on Number of Players Earning $X Amount
+#### 10. Impact of Challenger Prize Money Increases on Number of Players Earning $X Amount (ATP only)
 The number of players earning at least a certain amount can be manipulated by changing the amount of prize money players receive at various tournament levels. The following illustrates by what factor does Challenger level prize money need to be increased for a certain number of players to earn at least the given amount of money.
 
-#### 11. Potential Impact of ATP Baseline on Player Earnings
+#### 11. Potential Impact of ATP Baseline on Player Earnings (ATP only)
 In 2024, the ATP launched Baseline which is a financial security program for players that guarantees them a minimum amount of income based on their ranking as well as injury protection. Below shows the players that would be affected by this program if it were implemented in the previous year and by how much it would impact them.
 
 
